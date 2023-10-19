@@ -6,7 +6,8 @@ The Kimia Path24 dataset has been introduced as a classification and retrieval d
 The Kimia Path24C is a dataset for image classification and retrieval in digital pathology. We had 350 whole slide images (WSIs) from diverse body parts at our disposal. The images were captured by TissueScope LE 1.0. The scans were performed in the bright field using a 0.75 NA lens. We manually selected 24 WSIs purely based on visual distinction for non-clinical experts, which means, in our selection, we made a conscious effort to select a subset of the WSIs such that they clearly represent different texture patterns.
 The dataset contains 22,591 training patches and 1,325 test patches of size 1000 x 1000 (0.5mm × 0.5mm) extracted from all 24 WSIs. This dataset is for academic and research applications only. If you use this dataset, please cite the following papers:
 
-```@misc{shafiei2021colored,
+```
+@misc{shafiei2021colored,
 title={Colored Kimia Path24 Dataset: Configurations and Benchmarks with Deep Embeddings}, 
 author={Sobhan Shafiei and Morteza Babaie and Shivam Kalra and H. R. Tizhoosh},
 year={2021},
@@ -19,7 +20,8 @@ title={Classification and retrieval of digital pathology scans: A new dataset},
 author={Babaie, Morteza and Kalra, Shivam and Sriram, Aditya and Mitcheltree, Christopher and Zhu, Shujin and Khatami, Amin and Rahnamayan, Shahryar and Tizhoosh, Hamid R},
 booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
 pages={8--16},
-year={2017}}```
+year={2017}}
+```
 
 ### Useful Links
 - [Paper](https://arxiv.org/abs/2102.07611)
