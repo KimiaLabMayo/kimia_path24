@@ -31,6 +31,6 @@ year={2017}}
 - [Paper Link](https://arxiv.org/abs/2102.07611)
 - [Learn more on Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/pathology-images-kimia-path24/)
 ### Disclaimer
-Rhazes Lab does not own the code in this repository. This code and data were produced in Kimia Lab at the University of Waterloo. The code is provided as-is without any guarantees, and is stored here as part of Kimia Lab's history. We welcome questions and comments.
+Kimia Lab at Mayo Clinic does not own the code in this repository. The code and data were produced in Kimia Lab at the University of Waterloo. The code is provided as-is without any guarantees, and is stored here as part of Kimia Lab's history. We welcome questions and comments. 
 
-Before using or cloning this repository, please read the [End User Agreement](agreement.pdf).
+This code is intended for research purposes only. Before using or cloning this repository, please read the [End User Agreement](agreement.pdf).
